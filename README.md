@@ -1,8 +1,3 @@
-//VERSION=3
-// To set custom max and min values, set
-// defaultVis to false and choose your max and
-// min values. The color map will then be scaled
-// to those max and min values
 const vmin = 0;
 const vmax = 0.4;
 
